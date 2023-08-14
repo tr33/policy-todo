@@ -1,0 +1,3 @@
+server: registry.prod.aserto.com
+username: umbrella-asserto-dev
+repo: umbrella-asserto-dev/policy-todo
